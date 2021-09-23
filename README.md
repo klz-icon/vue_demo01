@@ -44,3 +44,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
+大佬有写好的,可以参考参考：
+预览效果: http://panjiachen.github.io/vue-admin-template
+代码: https://github.com/PanJiaChen/vue-admin-template.git
