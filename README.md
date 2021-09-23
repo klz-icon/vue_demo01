@@ -27,3 +27,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### 搭建后台管理页面两个基础的功能
+- 侧边栏折叠
+- 动态面包屑导航
+
+
