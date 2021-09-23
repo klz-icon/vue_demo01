@@ -1,28 +1,7 @@
-# code
-
-## Project setup
+### 项目启动
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run dev
 ```
 
 ### Customize configuration
@@ -75,4 +54,4 @@ $ git commit -m "description"     如: git commit -m "add readme.txt"
 $ git push origin master
 
 ### 参考博客
-> https://blog.csdn.net/zhuan_long/article/details/109739485
+https://blog.csdn.net/zhuan_long/article/details/109739485
