@@ -62,7 +62,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 生成并部署SSH key公钥
  ssh-keygen -t rsa -C "xxxxx@xxxxx.com"
 
-
 ### (所有命令都在 Git Bash 中运行)
 $ git                           查看 git 的相关命令 (git --help)
 $ git --version                 查看 git 的版本
@@ -74,8 +73,6 @@ $ git pull origin develop       从远程(origin) 的 develop 分支拉取代码
 $ git add <file>              如: git add readme.txt
 $ git commit -m "description"     如: git commit -m "add readme.txt"
 $ git push origin master
-
-
 
 ### 参考博客
 > https://blog.csdn.net/zhuan_long/article/details/109739485
