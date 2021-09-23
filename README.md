@@ -75,11 +75,6 @@ $ git add <file>              如: git add readme.txt
 $ git commit -m "description"     如: git commit -m "add readme.txt"
 $ git push origin master
 
-# 添加文件到仓库分两步:
-# 1. add 添加该文件到仓库, 
-# 添加许多同种类型的文件,可以使用通配符 * (记得加引号)  如: git add "*.txt"  命令就是添加所有 .txt 文件
-# 2. commit 提交该文件到仓库, description 为你对该次提交的描述说明, 
-注意: 可以多次 add 不同的文件,commit 可以一次提交多个文件
 
 
 ### 参考博客
